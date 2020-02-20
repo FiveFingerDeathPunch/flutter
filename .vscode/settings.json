@@ -1,0 +1,7 @@
+{
+  "editor.fontSize": 20,
+    "extensions.ignoreRecommendations": false,
+    "files.autoSave": "afterDelay",
+    "workbench.iconTheme": "",
+    "workbench.colorTheme": "Monokai",
+}
